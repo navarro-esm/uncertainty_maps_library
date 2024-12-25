@@ -8,18 +8,17 @@ Intercomparison Model Project Phase six (CMIP6). Together with the classificatio
 on where the models perform within limits, and where sources of error lie. We share a digital resource that can be readily and freely
 integrated into mitigation and adaptation studies and which is helpful for scientists and practitioners using climate classifications,
 minimizing the risk of pitfalls or unsubstantiated conclusions.   </div>
-
+ <br />
 <p align="center">
   <img src="https://github.com/user-attachments/assets/38f5a3cd-911e-4104-8d35-b64154e8868a">
 </p>
 
-<div align="justify">  The dataset includes climate classification maps and their associated consensus maps for present climate and three future socio-economic pathways (SSPs). 
+<div align="justify"> 
+This repository contains the source code used to generate the results presented in Navarro et al. (2025). For further information on the source archives of these climate classification maps, please refer to the 'Data Records' section in Navarro et al. (2025). 
+If you use these maps in any publications, please cite **Navarro et al.** (2025) Uncertainty maps for model-based global climate classification systems. _Scientific Data_ ArticleID: XX. DOI: XXXX </div>
+ <br />
+To download the GeoTIFF, NetCDF and Bil files go to https://doi.org/10.6084/m9.figshare.28071410.  <br />
+The dataset includes climate classification maps and their associated consensus maps for present climate and three future socio-economic pathways (SSPs). 
 These maps represent the Earth's climate zones according to four well-established classification schemes: Holdridge, Köppen, Thornthwaite, and Whittaker. 
 The data are based on Global Climate Model (GCM) simulations from the Coupled Model Intercomparison Project phase six (CMIP6). 
-For further information on the source archives of these climate classification maps, please refer to the 'Data Records' section in Navarro et al. (2025). 
-If you use these maps in any publications, please cite **Navarro et al.** (2025) Uncertainty maps for model-based global climate classification systems. _Scientific Data_ ArticleID: XX. DOI: XXXX
-This repository contains the source code used to generate the results presented in the manuscript. </div>
-
-To download the GeoTIFF, NetCDF and Bil files go to https://doi.org/10.6084/m9.figshare.28071410.
-
 
