@@ -14,11 +14,12 @@ minimizing the risk of pitfalls or unsubstantiated conclusions.   </div>
 </p>
 
 <div align="justify"> 
-This repository contains the source code used to generate the results presented in Navarro et al. (2025). For further information on the source archives of these climate classification maps, please refer to the 'Data Records' section in Navarro et al. (2025). 
-If you use these maps in any publications, please cite **Navarro et al.** (2025) Uncertainty maps for model-based global climate classification systems. _Scientific Data_ ArticleID: XX. DOI: XXXX </div>
- <br />
+This repository contains the source code used to generate the results presented in Navarro <i>et al.</i> (2025). For further information, please refer to the 'Data Records' section in Navarro et al. (2025). 
+If you use the consensus maps or their source code in any publications, please cite <b> Navarro </b> <i>et al.</i> (2025) Uncertainty maps for model-based global climate classification systems. <i>Scientific Data</i>, ArticleID: XX. DOI: XXXX </div>
+<br />
 To download the GeoTIFF, NetCDF and Bil files go to https://doi.org/10.6084/m9.figshare.28071410.  <br />
 The dataset includes climate classification maps and their associated consensus maps for present climate and three future socio-economic pathways (SSPs). 
 These maps represent the Earth's climate zones according to four well-established classification schemes: Holdridge, Köppen, Thornthwaite, and Whittaker. 
 The data are based on Global Climate Model (GCM) simulations from the Coupled Model Intercomparison Project phase six (CMIP6). 
 
+on the source archives of these climate classification maps
