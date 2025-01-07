@@ -15,7 +15,7 @@ minimizing the risk of pitfalls or unsubstantiated conclusions.   </div>
 
 <div align="justify"> 
 This repository contains the source code used to generate the results presented in Navarro <i>et al.</i> (2025). For further information, please refer to the 'Data Records' section in Navarro et al. (2025). 
-If you use the consensus maps or their source code in any publications, please cite <b> Navarro </b> <i>et al.</i> (2025) Uncertainty maps for model-based global climate classification systems. <i>Scientific Data</i>, ArticleID: XX. DOI: XXXX </div>
+If you use the consensus maps or their source code in any publications, please cite <b> Navarro </b> <i>et al.</i> (2025) Uncertainty maps for model-based global climate classification systems. <i>Scientific Data</i>, ArticleID: XX. DOI: 10.1038/s41597-025-04387-0 </div>
 <br />
 
 <div align="justify"> The dataset includes climate classification maps and their associated consensus maps for present climate and three future socio-economic pathways (SSPs). 
